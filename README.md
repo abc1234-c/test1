@@ -1,6 +1,6 @@
 #所需材料
 Heltec TRACKER (ESP32 LoRa GPS 系列開發板)
-MPU-6050 模組
+ICM20948 模組
 BMP280 模組
 MG90S 伺服馬達 (全金屬齒輪版)
 Micro SD 卡模組
@@ -17,7 +17,7 @@ Micro SD 記憶卡
 
 估價單
 Heltec TRACKER (ESP32 LoRa GPS)	核心處理器，有 LoRa 無線通訊和 GPS 定位功能	     $899/1049
-HMPU-6050 模組	整合加速度計和陀螺儀	1	100
+ICM20948 模組	整合加速度計和陀螺儀	1	100
 BMP280 模組		測量大氣壓力與溫度(測量高度用)	1	30
 Micro SD卡模組	提供資料儲存	1	20
 18650 電池	供電	2-4	50
